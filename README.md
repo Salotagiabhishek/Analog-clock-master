@@ -10,7 +10,7 @@ Analog clock using HTML, CSS and JS.
 
 ## Try out
 
-https://mohammedafrid126.github.io/Analog-clock/
+
 
 
 ## Tech Stack
